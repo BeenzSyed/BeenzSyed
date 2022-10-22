@@ -1,4 +1,22 @@
-### Hi there 👋
+### Hello! I’m Sabeen Syed, VP of Engineering at Ockam!
+
+Some things about me:
+- I have a traditional CS background, I majored in CS in university, worked at large companies (Dell and PayPal) during the early stages of my career and then got into management while working at Rackspace. When I got into management, I straight away knew that management was my jam and that I wanted to continue learning and growing in that track and that’s what I’ve been doing ever since. (I’ll leave the story about how I got into management for another day).
+- Why I love management - I love being on the bridge between people and engineering. Management requires a deep empathy for every team member and understanding organizations and an understanding of the product and why/what/how we want to build it. I truly believe that happy, healthy organizations can make or break the success of a product.
+- Towards the end of my tenure at Rackspace, I had my 4th baby and took about 10 months off to be with my family. It was an awesome time and I’m thankful that I had the choice to be a full time, stay at home mom.
+- I then joined HashiCorp as an Engineering Manager a couple of months before Covid hit. I learned a ton at HashiCorp but by far, my forever takeaway is the importance and impact of kindness. Leading and building organizations that value kindness will always be a part of organizations that I’m a part of.
+- As I continued my journey at HashiCorp, I grew into an Engineering Director role. I got to experience HashiCorp going IPO in late ‘21 and then in the summer of ‘22, I decided to join Ockam as VP of Engineering!
+- Why, you may ask, did I make that decision. Love that question! Here are my top 3 reasons:
+    - When I met Matt Gregory (CEO) and Mrinal Wadhwa (CTO) of Ockam, people-first leadership was very important to them. My non-negotiable was that the next company that I went to had to have executives that wanted to lead with people as top of mind.
+    - I’ll talk about what Ockam builds below but in a nutshell, Ockam builds developer tools in the security space. We are part of the shift security left movement where security is a forethought and not an afterthought. As I experienced at HashiCorp and previous companies, I know that the importance of security will only increase and that giving developers a simple UX to secure traffic between applications, services, devices (any point to another point) is extremely impactful and necessary.
+    - Ockam hires globally and I love the diverse perspectives that everyone brings to the table - the amount of learning from the communication aspect, cultural aspect and of course technology aspect is amazing to put it simply.
+- Also, I like lists :). I make one at the beginning of every week that contains all my TODOs for the week. I also like explaining things in lists. If I can convert something into a list, you’ll see me do that :).
+
+What is important to me as we build the Engineering organization / My current goals at Ockam are:
+- Hiring - We’re hiring!!! I’m looking for Engineers - Rust Engineers (or if you have a C/C++ background and want to learn Rust, that works too), Elixir Engineers, TypeScript Engineers (who have a background building TypeScript libraries), and SREs (we use AWS EKS, Terraform, GitHub’s workflows, etc).
+- Communication - I’m currently adding in habits/processes for us to communicate about more topics and more often. Examples of these are doing consistent weekly 1x1s with managers, monthly retrospectives. I’ll be adding regular team health surveys and quarterly virtual offsites next.
+- Planning - I’m working on improving our planning process so that it can be done more asynchronously and in a way where anyone on the team can get the information that they need to move forward with whatever they are working on. This essentially means documentation and the organization of that documentation.
+
 
 <!--
 **BeenzSyed/BeenzSyed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
