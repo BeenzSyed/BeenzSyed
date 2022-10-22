@@ -9,10 +9,10 @@
 6. Why, you may ask, did I make that decision. Love that question! Here are my top 4 reasons:
     - When I met [Matt Gregory (CEO)](https://github.com/mattgreg) and [Mrinal Wadhwa (CTO)](https://github.com/mrinalwadhwa) of Ockam, people-first leadership was very important to them. My non-negotiable was that the next company that I went to had to have executives that wanted to lead with people as top of mind.
     - In a nutshell, Ockam builds developer tools in the security space. We are part of the shift security left movement where security is a forethought and not an afterthought. As I experienced at HashiCorp and previous companies, I know that the importance of security will only increase and that giving developers a simple UX to secure traffic between applications, services, devices (any point to another point) is extremely impactful and necessary.
-    - Ockam hires globally and I love the diverse perspectives that everyone brings to the table - the amount of learning from the communication aspect, cultural aspect and of course technology aspect is amazing to put it simply.
+    - Ockam is fully remote and hires globally and I love the diverse perspectives that everyone brings to the table - the amount of learning from the communication aspect, cultural aspect and of course technology aspect is amazing to put it simply.
     - Ockam's one and only value (what we believe) is Trust which I heavily resonate with and our four virtues (what we do) are: High performance mindset, Keep things simple, Default to Transparency, and Time is precious. These are all important to me and I'll write up my take on them soon. 
 7. Also, I like lists :). I make one at the beginning of every week that contains all my TODOs for the week. I also like explaining things in lists. If I can convert something into a list, you’ll see me do that.
-8. And I work from my closet :)
+8. And I work from my closet in my house, lovingly called my cloffice :)
 
 ### My current goals at Ockam are:
 1. Hiring - [I'm hiring](https://www.ockam.io/team#open-roles)!!! I’m looking for Engineers - Rust Engineers (or if you have a C/C++ background and want to learn Rust, that works too), Elixir Engineers, TypeScript Engineers (who have a background building TypeScript libraries), and SREs (we use AWS EKS, Terraform, GitHub’s workflows, etc).
